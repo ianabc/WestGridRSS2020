@@ -1,4 +1,4 @@
-## Course Description
+## This is Course Description
 
 This course will introduce researchers to Jupyter notebooks as a tool for
 conducting research and for communicating their work.
